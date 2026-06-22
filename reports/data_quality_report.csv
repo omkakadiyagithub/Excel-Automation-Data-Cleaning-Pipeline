@@ -1,0 +1,8 @@
+Metric,Value
+Original Rows,541909
+Cleaned Rows,397884
+Rows Removed,144025
+Duplicate Rows,5268
+Missing Customer IDs,135080
+Negative Quantities,10624
+Negative Prices,2517
